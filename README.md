@@ -1,16 +1,16 @@
 # Essais Hydrolique, groupe x
 
-# Content
+## Content
 
 * [Objectives](#objectives)
 * [About this repository](#about-this-repository)
 * [Code description](#code-description)
 * [Results](#Results)
 
-# Objectives
+## Objectives
 Ce travail à pour but de traiter les données relevée sur le terrain dans le cadre d'un essais de pompage. Les équations et données ont été traitée en code Python.
 
-# About this repository
+## About this repository
 In this repository you can find:
 - Python code [Python_porous convection.py](Codes/Traduction_python.py)
 - Explication brève des équations
@@ -22,5 +22,5 @@ In this repository you can find:
 * [Jacob's](#Mass-conservation-equation)
 * [xxx](#Energy-conservation)
 
-## Linear Momentum conservation equation
-### Darcy velocity
+## Theis equation
+### blabla
