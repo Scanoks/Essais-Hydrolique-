@@ -1,4 +1,4 @@
-# Essais Hydrolique, groupe x
+# Essais Hydroliques, groupe x
 
 ## Content
 
